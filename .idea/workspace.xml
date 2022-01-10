@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7db23efb-0b19-49b5-880c-0c8d45bf90bc" name="Default Changelist" comment="" />
+    <list default="true" id="7db23efb-0b19-49b5-880c-0c8d45bf90bc" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/eventoapp/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eventoapp/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eventoapp/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eventoapp/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eventoapp/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eventoapp/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eventoapp/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eventoapp/src/main/java/com/eventoapp/eventoapp/EventoappApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eventoapp/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eventoapp/src/test/java/com/eventoapp/eventoapp/EventoappApplicationTests.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
