@@ -2,16 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7db23efb-0b19-49b5-880c-0c8d45bf90bc" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/eventoapp/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eventoapp/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eventoapp/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eventoapp/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eventoapp/mvnw" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eventoapp/mvnw.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eventoapp/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eventoapp/src/main/java/com/eventoapp/eventoapp/EventoappApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eventoapp/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eventoapp/src/test/java/com/eventoapp/eventoapp/EventoappApplicationTests.java" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/eventoapp/src/main/java/com/eventoapp/eventoapp/IndexController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eventoapp/src/test/java/com/eventoapp/eventoapp/IndexController" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +22,8 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JAVA" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/eventoapp" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -41,5 +36,16 @@
       <updated>1641853253223</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
