@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Oi&family=Shippori+Antique&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300&family=Oi&family=Shippori+Antique&display=swap');
+*{
+    font-size: 16px;
+}
+
+body{
+    margin: 0px;
+}
+
+header{
+    background-color: #1f363d;
+    color: white;
+    font-size: 1.5rem;
+    padding: 1rem;
+    text-align: center;
+}
+
+main{
+    padding: 1rem;
+    font-family: 'Comfortaa', cursive;
+}
+
+button{
+    background-color: #40798c;
+    padding: 0.5rem;
+    border: 0px solid #40798c;
+    border-radius: 5rem;
+    color: white;
+    font-size: 1.2rem;
+    font-family: 'Comfortaa', cursive;
+}
+
+h1{
+    font-size: 4rem;
+    font-family: 'Oi', cursive;
+    font-weight: normal;
+}
+
+h2{
+    margin-top: 0px;
+    font-size: 1.5rem;
+    text-align: center;
+}
+
+button a{
+    text-decoration: none;
+    vertical-align: middle;
+    color: white;
+}
+
+header p{
+    position: absolute;
+    top: 10rem;
+    right: 2rem;
+}
+
+header p a{
+    text-decoration: none;
+    color: white;
+    font-size: 1.2rem;
+    font-family: 'Comfortaa', cursive;
+    margin-right: 1rem;
+}
+
+header p span#cadastrarBtn{
+    background-color:  #40798c;
+    border 1px solid #40798c;
+    border-radius: 5rem;
+    padding: 0.5rem;
+    font-size: 1.2rem;
+}

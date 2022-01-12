@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html xmlns:th="http://thymeleaf.org"
+      xmlns:layout="http://www.ultraq.net.nz/thymeleaf/layout">
+<head>
+    <meta charset="UTF-8">
+    <link href="css/basic.css" type="text/css" rel="stylesheet">
+    <link href="css/forms.css" type="text/css" rel="stylesheet">
+    <link href="css/detalhesEvento.css" type="text/css" rel="stylesheet">
+    <title>EventosApp</title>
+</head>
+<body>
+<header>
+    <h1>EventosApp</h1>
+    <p><a href="/eventos">Ver Eventos</a></p>
+</header>
+<main>
+    <h2>Evento</h2>
+
+    <div id="containerDetalhes" th:each="evento : ${evento}">
+        <div class="row">
+            <p>Nome: <span th:text="${evento.nome}"></span></p>
+            <p>Local: <span th:text="${evento.local}"></span></p>
+            <p>Data: <span th:text="${evento.data}"></span></p>
+            <p>Horário: <span th:text="${evento.horario}"></span></p>
+        </div>
+
+        <h3>Adicionar convidados:</h3>
+        <form method="post">
+            <p><input type="text" value="" name="nomeConvidado" placeholder="Nome do Convidado"></p>
+            <p><input type="text" value="" name="rg" placeholder="RG"></p>
+            <button type="submit">Adicionar</button>
+        </form>
+    </div>
+</main>
+</body>
+</html>

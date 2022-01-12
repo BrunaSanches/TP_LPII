@@ -1,0 +1,17 @@
+div{
+    width: 30rem;
+    margin: auto;
+}
+
+h3{
+    text-align: center;
+}
+
+p{
+    font-size: 1.1rem;
+}
+
+button{
+    display: block;
+    margin: auto;
+}
